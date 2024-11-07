@@ -24,3 +24,9 @@ and different properties of those objects using an algorithm which we design.
 
 ![image](https://github.com/user-attachments/assets/6da6a7e6-1b95-43db-b976-59607a1bfc49)
 
+![image](https://github.com/user-attachments/assets/0a680302-0640-459e-a025-aca14efb5956)
+
+![image](https://github.com/user-attachments/assets/10aad373-db9d-431f-980d-b7988c0737d9)
+
+
+
