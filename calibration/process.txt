@@ -1,0 +1,8 @@
+Process for array calibration:
+
+1. run ShowAndSaveVidFrame matlab code to save single frame from each one of the cameras 
+2. place cameraParams.mat file in the same single frame folder - this is the cameras calibration objects for lens aberration removal - never changed
+3. run CalibrationProcess_Afine2D_Calculate_tform matlab code to create tform object and distances between cameras variable on the single frame images - this object will be saved in the same folder - this is the affine2D rectification object - we need to create it after touching  in the cameras or move them 
+4. run RectifyVideoAndSaveConcatVideo matlab code to rectify video files and save concat video - you can use this code after you having all the calibration files to calibrate and concatenate all your videos
+
+follow the instruction in each one of the codes
