@@ -2,6 +2,7 @@
 ## BY: YAIR ROSS
 ##     MOSHE SHMILOVICH
 #------------------------------------------------------------------------------
+
 In this project we will use a camera matrix (3X7 cameras) located in the
 laboratory and we will take short video clips of a limited number of seconds in
 which you see a single object or several objects moving in space.
